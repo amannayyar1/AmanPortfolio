@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アマン・ナヤール</title>
+    <link>/ja/</link>
+    <description>Recent content on アマン・ナヤール</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>プロジェクト</title>
+      <link>/ja/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ja/projects/</guid>
+      <description>私が作ったプロジェクト 近日公開!</description>
+    </item>
+    
+    <item>
+      <title>私について</title>
+      <link>/ja/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ja/about/</guid>
+      <description>熱心で組織力があり、「やればできる」姿勢で、一生懸命働き、進歩する意欲のある個人。サイバー セキュリティとコンピューター フォレンジックの 2 年生。自分の行動に自信とやる気を。どんな状況でもベストを尽くそうと常に心がけています。サイバーとプログラミングの分野で十分な知識を持っていること。また、データベースとスプレッドシート ソフトウェアの経験があり、ネットワークとハードウェアのスキルがあります。現在、IT セクターに必要なスキルを学び開発するために、IT セクターでの配置を求めています
+ スキル 私が経験したいくつかの分野:
+ サイバーセキュリティ - 一部のスキルには、ブラック ハット ハッキング、脆弱性エクスプロイト、インシデント レスポンスが含まれます。 コーディング - Python（データ分析とネットワーキングのスキル）、HTML、CSS、PHP リモートチーム作業 - リモートワーク用に事前に承認済みで、Slack、Zoom、MSTeams を使用できます ネットワーキング - Python、Cisco パケット トレーサー、Wireshark、ルーティング プロトコル、アプリケーション層プロトコル、TCP/IP 他のスキル - スプレッドシートとデータベース  読んでくれてありがとう!</description>
+    </item>
+    
+    <item>
+      <title>私に連絡して</title>
+      <link>/ja/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ja/contact/</guid>
+      <description>連絡する 質問がありますか? LinkedIn でメッセージを送信して接続するか、aman.nayyar147@gmail.com にメールを送信してください。
+ありがとうございました!</description>
+    </item>
+    
+  </channel>
+</rss>
