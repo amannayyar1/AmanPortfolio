@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://amannayyar.netlify.app/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/about/"
+                href="https://amannayyar.netlify.app/ja/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://amannayyar.netlify.app/about/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://amannayyar.netlify.app/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/"
+                href="https://amannayyar.netlify.app/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://amannayyar.netlify.app/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://amannayyar.netlify.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/categories/"
+                href="https://amannayyar.netlify.app/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://amannayyar.netlify.app/categories/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://amannayyar.netlify.app/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/contact/"
+                href="https://amannayyar.netlify.app/ja/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="https://amannayyar.netlify.app/contact/"
                 />
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://amannayyar.netlify.app/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/projects/"
+                href="https://amannayyar.netlify.app/ja/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/"
+                href="https://amannayyar.netlify.app/projects/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://amannayyar.netlify.app/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/tags/"
+                href="https://amannayyar.netlify.app/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://amannayyar.netlify.app/tags/"
                 />
   </url>
 </urlset>
