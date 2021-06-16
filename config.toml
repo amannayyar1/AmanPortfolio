@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://amannayyar.netlify.app/"
 title = "Aman Nayyar"
 
 theme = "hugo-coder-portfolio"
