@@ -15,10 +15,10 @@ pygmentsUseClasses = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Big Muli"
+    author = "Aman Nayyar"
     description = "Aman Nayyar's personal website"
     keywords = "python,cybersecurity,personal"
-    info = "Fat cunt muli"
+    info = "Cyber Security, Hacking and Programming"
     avatarurl = "images/avatar.jpg"
     footercontent = "Aman Nayyar©."
     fixedbarContent = "Do you want to know me more private?→"
@@ -69,8 +69,8 @@ pygmentsUseClasses = true
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-            author = "Big Muli"
-            info = "fat cunt obesity bitch mulis site"
+            author = "Aman Nayyar"
+            info = "Cyber Security, Hacking and Programming"
             description = "Aman Nayyar's personal website"
             keywords = "python,cybersecurity,personal"
 
@@ -99,7 +99,7 @@ pygmentsUseClasses = true
             author = "アマン・ナヤール"
             description = "アマン・ナヤールの個人サイト"
             keywords = "Python、サイバーセキュリティ、パーソナル"
-            info = "サイバーセキュリティのすべて"
+            info = "サイバーセキュリティ、ハッキング、プログラミング"
 
         [languages.ja.menu]
             [[languages.ja.menu.main]]
