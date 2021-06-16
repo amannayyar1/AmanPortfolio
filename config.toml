@@ -1,0 +1,116 @@
+baseurl = ""
+title = "Aman Nayyar"
+
+theme = "coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Aman Nayyar"
+    description = "Aman Nayyar's personal website"
+    keywords = "python,cybersecurity,personal"
+    info = "Everything Cyber Security"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "Aman Nayyar©."
+    fixedbarContent = "Do you want to know me more private?→"
+    fixedbarContentAfter = "Privacy is Power :)"
+
+    hideCredits = true
+    hideCopyright = true
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = false
+    enableFacebookShare = false
+    enableHatenaShare = false
+    enableLineShare = false
+    enableLinkedInShare = false
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 1
+    url = "https://twitter.com/aman_1up"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/aman-nayyar1/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Aman Nayyar"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Aman Nayyar"
+            info = "Everything Cyber Security"
+            description = "Aman Nayyar's personal website"
+            keywords = "python,cybersecurity,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "About Me"
+                weight = 1
+                url = "about"
+            [[languages.en.menu.main]]
+                name = "Projects"
+                weight = 2
+                url = "projects"
+            [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 5
+                url = "contact"
+
+
+    [languages.ja]
+        languagecode = "ja"
+        languagename = "Japanese"
+        title = "アマン・ナヤール"
+
+        [languages.ja.params]
+            author = "アマン・ナヤール"
+            description = "アマン・ナヤールの個人サイト"
+            keywords = "Python、サイバーセキュリティ、パーソナル"
+            info = "サイバーセキュリティのすべて"
+
+        [languages.ja.menu]
+            [[languages.ja.menu.main]]
+                name = "私について"
+                weight = 1
+                url = "ja/about"
+            [[languages.ja.menu.main]]
+                name = "プロジェクト"
+                weight = 2
+                url = "ja/projects"
+            [[languages.ja.menu.main]]
+                name = "お問い合わせ"
+                weight = 5
+                url = "ja/contact"
