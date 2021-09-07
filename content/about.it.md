@@ -6,8 +6,7 @@ description = "A proposito di me"
 +++
 
 ---------------------------
-Un individuo entusiasta e ben organizzato, con un atteggiamento "can-do", che è disposto a lavorare sodo e progredire. Studente al secondo anno di Cyber ​​Security e Computer Forensics. Fiducioso e motivato in quello che faccio. Mi sforzo sempre di fare il miglior standard possibile in ogni situazione. Avere una buona conoscenza dei settori cyber e di programmazione. Ho anche esperienza con database e software per fogli di calcolo e sono esperto in networking e hardware. Attualmente alla ricerca di un programma di laurea/lavoro di livello junior nel settore IT.
-
+Un individuo entusiasta e ben organizzato, con un atteggiamento "can-do", che è disposto a lavorare sodo e progredire. Studente al terzo anno di Cyber ​​Security e Computer Forensics. Fiducioso e motivato in quello che faccio. Mi sforzo sempre di fare il miglior standard possibile in ogni situazione. Avere una buona conoscenza dei settori cyber e di programmazione. Ho anche esperienza con database e software per fogli di calcolo e sono esperto in networking e hardware. Attualmente alla ricerca di un programma di laurea/lavoro di livello junior nel settore IT.
 ---------------------------
 
 ## Abilità
