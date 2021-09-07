@@ -85,27 +85,27 @@ pygmentsUseClasses = true
                 url = "contact"
 
 
-    [languages.ja]
-        languagecode = "ja"
-        languagename = "Japanese"
-        title = "アマン・ナヤール"
+    [languages.it]
+        languagecode = "it"
+        languagename = "Italian"
+        title = "Aman Nayyar"
 
-        [languages.ja.params]
-            author = "アマン・ナヤール"
-            description = "アマン・ナヤールの個人サイト"
-            keywords = "Python、サイバーセキュリティ、パーソナル"
-            info = "サイバーセキュリティ、ハッキング、プログラミング"
+        [languages.it.params]
+            author = "Aman Nayyar"
+            description = "Sito personale di Aman Nayyar"
+            keywords = "python, sicurezza informatica, personale"
+            info = "Sicurezza informatica, hacking e programmazione"
 
-        [languages.ja.menu]
-            [[languages.ja.menu.main]]
-                name = "私について"
+        [languages.it.menu]
+            [[languages.it.menu.main]]
+                name = "A proposito di me"
                 weight = 1
-                url = "ja/about"
-            [[languages.ja.menu.main]]
-                name = "プロジェクト"
+                url = "it/about"
+            [[languages.it.menu.main]]
+                name = "Progetti"
                 weight = 2
-                url = "ja/projects"
-            [[languages.ja.menu.main]]
-                name = "お問い合わせ"
+                url = "it/projects"
+            [[languages.it.menu.main]]
+                name = "Contattami"
                 weight = 5
-                url = "ja/contact"
+                url = "it/contact"
