@@ -9,7 +9,6 @@ description = "A proposito di me"
 Pagina non aggiornata da AGOSTO 2021
 
 ---------------------------
----------------------------
 Un individuo entusiasta e ben organizzato, con un atteggiamento "can-do". 
 
 ---------------------------
