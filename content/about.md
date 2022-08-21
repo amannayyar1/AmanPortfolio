@@ -9,6 +9,7 @@ description = "About Me"
 Page not updated since AUG 2021
 
 ---------------------------
+---------------------------
 An enthusiastic and well-organised individual, with a ‘can-do’ attitude. 
 
 ---------------------------
@@ -24,4 +25,4 @@ Some of the areas I have experience in:
 * [Networking]() - Python, Cisco Packet Tracer, Wireshark, Routing Protocols, Application Layer Protocols, TCP/IP
 * [Other Skills]() - Spreadsheets and Databases
 
-Thanks for reading!
+
