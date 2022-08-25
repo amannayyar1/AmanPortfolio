@@ -38,24 +38,24 @@ Some of the areas I have experience in:
 **Sales Assistant, Poundland** (2019-2020) -
 *Responsibilities & Achievements:*
 
-●	Being able to handle various customer needs with excellent communication skills
+    ●	Being able to handle various customer needs with excellent communication skills
 
-●	Handling Store Deliveries 
+    ●	Handling Store Deliveries 
 
-●	Working a cashier roll to learn cash management 
+    ●	Working a cashier roll to learn cash management 
 
-●	Team working skills and the ability to work under pressure
+    ●	Team working skills and the ability to work under pressure
 
 **Work Experience, Tullow Oil** (09/2018) -
 *Responsibilities & Achievements:*
 
-            ●	Networking based 
+    ●	Networking based 
 
-            ●	Meeting with managers and colleagues bringing information gathered from the week
+    ●	Meeting with managers and colleagues bringing information gathered from the week
 
-            ●	Monitoring Servers and detailed learning of BIOS
+    ●	Monitoring Servers and detailed learning of BIOS
 
-            ●	Some aspects of the organisation’s cybersecurity 
+    ●	Some aspects of the organisation’s cybersecurity 
 
 **Customer Service Assistant, Puri Chemist** (2017-2019) -
 *Responsibilities & Achievements:*
