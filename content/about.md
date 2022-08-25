@@ -24,8 +24,7 @@ Some of the areas I have experience in:
 
 ## Work Experience 
 
-**Work Experience, Samsung Electronics** (09/2020)
-
+**Work Experience, Samsung Electronics** (09/2020) -
 *Responsibilities & Achievements:*
 
 ●   Liaised with managers and colleagues on UX prototyping for projects
@@ -36,8 +35,7 @@ Some of the areas I have experience in:
 
 ●	Met with various people around the world offering the best advice 
 
-**Sales Assistant, Poundland** (2019-2020)
-
+**Sales Assistant, Poundland** (2019-2020) -
 *Responsibilities & Achievements:*
 
 ●	Being able to handle various customer needs with excellent communication skills
@@ -48,8 +46,7 @@ Some of the areas I have experience in:
 
 ●	Team working skills and the ability to work under pressure
 
-**Work Experience, Tullow Oil** (09/2018)
-
+**Work Experience, Tullow Oil** (09/2018) -
 *Responsibilities & Achievements:*
 
 ●	Networking based 
@@ -60,8 +57,7 @@ Some of the areas I have experience in:
 
 ●	Some aspects of the organisation’s cybersecurity 
 
-**Customer Service Assistant, Puri Chemist** (2017-2019)
-
+**Customer Service Assistant, Puri Chemist** (2017-2019) -
 *Responsibilities & Achievements:*
 
 ●	Excellent Customer Service by attending to different queries
@@ -71,6 +67,8 @@ Some of the areas I have experience in:
 ●	Managed a friendly and calm positive mentality when dealing with complaints
 
 ●	Built excellent team working and communication skills 
+
+
 
 **Work Experience, Tullow Oil** (09/2016) -
 *Responsibilities & Achievements:*
