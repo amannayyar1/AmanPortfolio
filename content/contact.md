@@ -12,4 +12,4 @@ Send a message and connect on [LinkedIn](https://www.linkedin.com/in/aman-nayyar
 
 Thank you!
 
-![alt text](../public/images/Thank-You-Picture.jpg)
+![alt text](../public/images/Thank-You-Picture.jpg "thanks")
