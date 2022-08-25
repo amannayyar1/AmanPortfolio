@@ -28,7 +28,7 @@ Some of the areas I have experience in:
 
 *Responsibilities & Achievements:*
 
-<span style="font-size=4em;">●	Liaised with managers and colleagues on UX prototyping for projects</span>
+●	Liaised with managers and colleagues on UX prototyping for projects
 
 ●	attended creativity sessions for the improvement of the work environment
 
