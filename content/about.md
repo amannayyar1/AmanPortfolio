@@ -24,7 +24,7 @@ Some of the areas I have experience in:
 
 ## Work Experience 
 
-* [Work Experience, Samsung Electronics]() (09/2020)
+**[Work Experience, Samsung Electronics]()** (09/2020)
 
 [Responsibilities & Achievements:]()
 
