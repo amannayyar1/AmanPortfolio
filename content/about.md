@@ -26,9 +26,9 @@ Some of the areas I have experience in:
 
 **Work Experience, Samsung Electronics** (09/2020)
 
-_Responsibilities & Achievements:_
+*Responsibilities & Achievements:*
 
-●	Liaised with managers and colleagues on UX prototyping for projects
+<h4> ●	Liaised with managers and colleagues on UX prototyping for projects </h4>
 
 ●	attended creativity sessions for the improvement of the work environment
 
