@@ -36,7 +36,7 @@ Some of the areas I have experience in:
 
 ●	Met with various people around the world offering the best advice 
 
-***Sales Assistant, Poundland*** (2019-2020)
+**Sales Assistant, Poundland** (2019-2020)
 
 *Responsibilities & Achievements:*
 
@@ -48,23 +48,37 @@ Some of the areas I have experience in:
 
 ●	Team working skills and the ability to work under pressure
 
-Work Experience, Tullow Oil (09/2018)
-Responsibilities & Achievements
+**Work Experience, Tullow Oil** (09/2018)
+
+*Responsibilities & Achievements:*
+
 ●	Networking based 
+
 ●	Meeting with managers and colleagues bringing information gathered from the week
+
 ●	Monitoring Servers and detailed learning of BIOS
+
 ●	Some aspects of the organisation’s cybersecurity 
 
-Customer Service Assistant, Puri Chemist (2017-2019)
-Responsibilities & Achievements
-●	Excellent Customer Service by attending to different queries 
+**Customer Service Assistant, Puri Chemist** (2017-2019)
+
+*Responsibilities & Achievements:*
+
+●	Excellent Customer Service by attending to different queries
+
 ●	Stock Replenishment 
+
 ●	Managed a friendly and calm positive mentality when dealing with complaints
+
 ●	Built excellent team working and communication skills 
 
-Work Experience, Tullow Oil (09/2016)
-Responsibilities & Achievements
+**Work Experience, Tullow Oil** (09/2016)
+*Responsibilities & Achievements:*
+
 ●	Administrative System Duties
+
 ●	Networking and Monitoring Servers
+
 ●	Working on SharePoint
+
 ●	Meetings with directors of various departments 
