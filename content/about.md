@@ -60,13 +60,13 @@ Some of the areas I have experience in:
 **Customer Service Assistant, Puri Chemist** (2017-2019) -
 *Responsibilities & Achievements:*
 
-●	Excellent Customer Service by attending to different queries
+    ●	Excellent Customer Service by attending to different queries
 
-●	Stock Replenishment 
+    ●	Stock Replenishment 
 
-●	Managed a friendly and calm positive mentality when dealing with complaints
+    ●	Managed a friendly and calm positive mentality when dealing with complaints
 
-●	Built excellent team working and communication skills 
+    ●	Built excellent team working and communication skills 
 
 **Work Experience, Tullow Oil** (09/2016) -
 *Responsibilities & Achievements:*
