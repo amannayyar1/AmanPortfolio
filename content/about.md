@@ -72,7 +72,7 @@ Some of the areas I have experience in:
 
 ●	Built excellent team working and communication skills 
 
-**Work Experience, Tullow Oil** (09/2016)
+**Work Experience, Tullow Oil** (09/2016) -
 *Responsibilities & Achievements:*
 
 ●	Administrative System Duties
