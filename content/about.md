@@ -68,15 +68,13 @@ Some of the areas I have experience in:
 
 ●	Built excellent team working and communication skills 
 
-
-
 **Work Experience, Tullow Oil** (09/2016) -
 *Responsibilities & Achievements:*
 
-●	Administrative System Duties
+    ●	Administrative System Duties
 
-●	Networking and Monitoring Servers
+    ●	Networking and Monitoring Servers
 
-●	Working on SharePoint
+    ●	Working on SharePoint
 
-●	Meetings with directors of various departments 
+    ●	Meetings with directors of various departments 
