@@ -27,9 +27,13 @@ Some of the areas I have experience in:
 [Work Experience, Samsung Electronics]() (09/2020)
 
 Responsibilities & Achievements
+
 ●	Liaised with managers and colleagues on UX prototyping for projects
+
 ●	attended creativity sessions for the improvement of the work environment
+
 ●	Meetings were held online giving a clear understanding of working at home
+
 ●	Met with various people around the world offering the best advice 
 
 Sales Assistant, Poundland (2019-2020)
