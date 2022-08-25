@@ -15,5 +15,5 @@ An enthusiastic and well-organised individual, with a ‘can-do’ attitude, who
 Some of the areas I have experience in:
 
 * [Strong Soft and Interpersonal Skills]() which include organisation, communication, leadership and teamwork. Excellent experience in customer service by talking to various people and understanding how to cater to people’s needs. Able to multitask and satisfy customers in a pressured situation.
-* [Web Development]() knowledge which includes HTML and CSS. Basic knowledge of Python for data analysis and Splunk, Kibana, ELK Stack, Suricata and Honeypot tools.
+* [Web Development]() knowledge which includes HTML and CSS. Basic knowledge of Python for data analysis, Splunk, Kibana, ELK Stack, Suricata and Honeypot tools.
 * [Networking]() experience includes Cisco Packet Tracer, Wireshark, Routing protocols and TCP/IP.
