@@ -28,19 +28,24 @@ Some of the areas I have experience in:
 
 *Responsibilities & Achievements:*
 
-●	Liaised with managers and colleagues on UX prototyping for projects
+●   Liaised with managers and colleagues on UX prototyping for projects
 
-●	attended creativity sessions for the improvement of the work environment
+●	Attended creativity sessions for the improvement of the work environment
 
 ●	Meetings were held online giving a clear understanding of working at home
 
 ●	Met with various people around the world offering the best advice 
 
-Sales Assistant, Poundland (2019-2020)
-Responsibilities & Achievements
+***Sales Assistant, Poundland*** (2019-2020)
+
+*Responsibilities & Achievements:*
+
 ●	Being able to handle various customer needs with excellent communication skills
+
 ●	Handling Store Deliveries 
+
 ●	Working a cashier roll to learn cash management 
+
 ●	Team working skills and the ability to work under pressure
 
 Work Experience, Tullow Oil (09/2018)
