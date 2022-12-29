@@ -22,7 +22,27 @@ Some of the areas I have experience in:
 
 ---------------------------
 
+## Certifications 
+
+These are the certifications I have achieved:
+
+* [Google IT Support Professional]() 
+* [Microsoft Certified: AZ-900]() 
+
+---------------------------
+
 ## Work Experience 
+
+**1st Line Service Desk Analyst** (Currently working Since Sept 2022) -
+*Responsibilities & Achievements:*
+
+    ●   End User Support, communicating internally and externally 
+
+    ●	Working with SCCM, Azure, Endpoint, Microsoft Exchange Mail Server, Jira, Powershell
+
+    ●	Working alongside multiple teams
+
+    ●	Met with various people around the world offering the best advice 
 
 **Work Experience, Samsung Electronics** (09/2020) -
 *Responsibilities & Achievements:*
