@@ -36,7 +36,7 @@ These are the certifications I have achieved:
 **1st Line Service Desk Analyst** (Currently working Since Sept 2022) -
 *Responsibilities & Achievements:*
 
-    ●    End User Support, communicating internally and externally 
+    ●   End User Support, communicating internally and externally 
 
     ●	Working with SCCM, Azure, Endpoint, Microsoft Exchange Mail Server, Jira, Powershell
 
