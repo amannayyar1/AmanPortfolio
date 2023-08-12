@@ -32,8 +32,18 @@ These are the certifications I have achieved:
 ---------------------------
 
 ## Work Experience 
+**Junior Information Security Analyst, Preqin** (Current since July 2023) -
+*Responsibilities & Achievements:*
 
-**1st Line Service Desk Analyst** (Currently working Since Sept 2022) -
+    ●   Using various tools such as Azure, AWS, Powershell, Cisco Umbrella, Sophos
+
+    ●	....
+
+    ●	....
+
+    ●	....
+
+**1st Line Service Desk Analyst, Foxtons** (09/2022-07/2023) -
 *Responsibilities & Achievements:*
 
     ●   End User Support, communicating internally and externally 
