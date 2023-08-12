@@ -21,13 +21,6 @@ Some of the areas I have experience in:
 * [Other skills]() include Spreadsheet software, basic experience in Cloud Services, Databases and Active Directory. 
 
 ---------------------------
-## Certifications
-
-These are the certifications I have achieved:
-●  Google IT Support Professional
-●  Microsoft Certified: AZ-900
-
----------------------------
 
 ## Certifications 
 
