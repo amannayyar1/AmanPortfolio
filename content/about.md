@@ -29,6 +29,15 @@ These are the certifications I have achieved:
 
 ---------------------------
 
+## Certifications 
+
+These are the certifications I have achieved:
+
+* [Google IT Support Professional]() 
+* [Microsoft Certified: AZ-900]() 
+
+---------------------------
+
 ## Work Experience 
 
 **1st Line Service Desk Analyst** (Currently working Since Sept 2022) -
