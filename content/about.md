@@ -6,19 +6,34 @@ description = "About Me"
 +++
 
 ---------------------------
-An enthusiastic and well-organised individual, with a ‘can-do’ attitude, who is willing to work hard and progress. Good communication and team working skills and always happy to help. Graduated in Cyber Security and Computer Forensics with a [First Class](). 
-
+A results-driven and detail-oriented Information Security Analyst with a passion for cybersecurity and a proactive approach 
+to threat identification, mitigation, and compliance. Skilled in leveraging automation, cloud security, and vulnerability 
+management to enhance organizational security posture. Adept at collaborating with cross-functional teams, analysing 
+complex security threats, and implementing effective solutions. Holding a [First-Class]() degree in Cyber Security and 
+Computer Forensics, I am eager to apply my expertise in a dynamic environment, driving innovation and strengthening 
+defences against evolving cyber threats.
 ---------------------------
 
 ## Technical Skills
 
 Some of the areas I have experience in:
 
-* [Strong Soft and Interpersonal Skills]() which include organisation, communication, leadership and teamwork. Excellent experience in customer service by talking to various people and understanding how to cater to people’s needs. Able to multitask and satisfy customers in a pressured situation.
-* [Web Development]() knowledge which includes HTML and CSS. Basic knowledge of Python for data analysis, Splunk, Kibana, ELK Stack, Suricata and Honeypot tools.
-* [Networking]() experience includes Cisco Packet Tracer, Wireshark, Routing protocols and TCP/IP.
-* [Cyber Security]() knowledge includes Ethical hacking, steganography, cryptography, virtualisation, Kali Linux, Ubuntu, password cracking, reconnaissance and scanning, vulnerability exploitation and adaptability. 
-* [Other skills]() include Spreadsheet software, basic experience in Cloud Services, Databases and Active Directory. 
+* [Strong Soft and Interpersonal Skills:]() Organization, Communication, Leadership, and Teamwork. Excellent 
+customer service experience. 
+* [Security Operations:]() Threat Detection (Mimecast, Sophos XDR, Wazuh), SIEM & Forensics (Azure Sentinel, 
+Kibana, Wireshark, Nessus), Incident Response & Phishing Mitigation. 
+* [Identity & Access Management:]() Active Directory & Azure AD (Conditional Access, MFA), AWS IAM (PoLP, Secrets 
+Manager), MDM Compliance (Intune, Device Security Policies). 
+* [Cloud Security:]() AWS (IAM, CloudFormation, Secrets Manager, EC2, Tenable), Azure (Risky Users, Conditional 
+Access, MCAS, Defender for Cloud). 
+* [Automation & Security Orchestration:]() PowerShell (Security Audits, Access Management, MFA Enforcement), 
+Power Automate (GDPR Automation, Security Workflow), Jira Automation (Ticketing, Playbooks). 
+* [Compliance & Risk:]() GDPR Compliance (Microsoft Purview, Right-to-Be-Forgotten Requests), Risk Management 
+(TPRM, Vendor Security Reviews, Risk Register Maintenance), BCP & Policy Writing. 
+* [Vulnerability Management:]() Tenable.io/Nessus (Scanning & Remediation), Fortinet (Custom OSSEC Rules, SIEM 
+Integrations), Patch Management (AWS, Azure, Linux). 
+* [Networking & System Security:]() TCP/IP, DNS, Firewalls, Fortinet, Linux Security Administration. 
+* [Development & Reporting:]() Python, PowerShell, SharePoint, PCI DSS Compliance, Jira. 
 
 ---------------------------
 
@@ -28,31 +43,55 @@ These are the certifications I have achieved:
 
 * [Google IT Support Professional]() 
 * [Microsoft Certified: AZ-900]() 
+* [CISSP - Studying]()
 
 ---------------------------
 
 ## Work Experience 
-**Junior Information Security Analyst, Preqin** (Current since July 2023) -
+**Information Security Analyst, Preqin by BlackRock** (Current since July 2023) -
 *Responsibilities & Achievements:*
 
     ●   Using various tools such as Azure, AWS, Powershell, Cisco Umbrella, Sophos
 
-    ●	....
-
-    ●	....
-
-    ●	....
+    ● Ensured a 100% timely response rate for critical security alerts across Mimecast, Sophos, Kibana, Cisco Umbrella, 
+    AWS, and Azure, maintaining a 5-minute SLA to reduce attack windows. 
+    
+    ● Automated security & compliance reporting, using PowerShell, Microsoft Security API, and Azure Automation, 
+    cutting manual reporting time by 75%. 
+ 
+    ● Built & deployed a Wazuh security monitoring system in AWS (Linux), integrating Fortinet, Syslog, Domain 
+    Controllers & OSSEC rules to enhance network and endpoint security. 
+ 
+    ● Enforced IAM security controls, automating password health checks, MFA enforcement, and AWS IAM access 
+    reviews, ensuring compliance with least privilege principles. 
+ 
+    ● Streamlined GDPR compliance, automating Right-to-Be-Forgotten requests with Microsoft Purview, Power 
+    Automate & AWS SES, achieving 100% regulatory adherence. 
+ 
+    ● Developed security automation workflows, integrating Power Automate & Jira playbooks to close tickets, 
+    quarantine GDPR files, and enforce security policies. 
+ 
+    ● Led vulnerability & risk management efforts, conducting Tenable scans, remediation prioritization, and third
+    party risk assessments (TPRM) to reduce critical security risks. 
+ 
+    ● Executed phishing campaigns & security awareness training, reducing click rates by 35% and strengthening 
+    security culture. 
+ 
+    ● Designed & implemented Business Continuity Plans (BCPs), improving incident response readiness and resilience. 
+ 
+    ● Created custom AWS & Defender security alerts, improving threat visibility and proactive threat detection.
 
 **1st Line Service Desk Analyst, Foxtons** (09/2022-07/2023) -
 *Responsibilities & Achievements:*
-
-    ●   End User Support, communicating internally and externally 
-
-    ●	Working with SCCM, Azure, Endpoint, Microsoft Exchange Mail Server, Jira, Powershell
-
-    ●	Working alongside multiple teams
-
-    ●	Met with various people around the world offering the best advice 
+    
+    ● Delivered a high level of exceptional customer service on the phone and face-to-face with our diverse teams 
+    abroad making strong customer connections and building amazing communication skills. Maintained a customer 
+    satisfaction score of 100%. 
+    
+    ● Maintain an organised daily structure, working to assigned jobs within an adequate time frame. 
+    
+    ● Cyber support such as successful phishing prevention using Mimecast and applying security policies with 
+    Forcepoint. 
 
 **Work Experience, Samsung Electronics** (09/2020) -
 *Responsibilities & Achievements:*
@@ -64,17 +103,6 @@ These are the certifications I have achieved:
     ●	Meetings were held online giving a clear understanding of working at home
 
     ●	Met with various people around the world offering the best advice 
-
-**Sales Assistant, Poundland** (2019-2020) -
-*Responsibilities & Achievements:*
-
-    ●	Being able to handle various customer needs with excellent communication skills
-
-    ●	Handling Store Deliveries 
-
-    ●	Working a cashier roll to learn cash management 
-
-    ●	Team working skills and the ability to work under pressure
 
 **Work Experience, Tullow Oil** (09/2018) -
 *Responsibilities & Achievements:*
