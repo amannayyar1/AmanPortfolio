@@ -14,8 +14,8 @@ description = "projects"
 
 More to be added soon!
 
-## Hack The Box Projects
-Soon to be added to the page!
+## Other Projects
+* I have made a server from scratch via IAAC on cloudformation, I have migrated my organisation's server from OSSEC on AL to AL3 to a Wazuh server fully operational which has syslog feeding into it which includes firewall logs and DC endpoint logs. 
 
 <!---
 if you want to add pics to this page go to the example folder in the themes and check how to add the image.
