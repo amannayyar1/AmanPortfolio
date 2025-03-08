@@ -6,12 +6,15 @@ description = "About Me"
 +++
 
 ---------------------------
+## Personal Statement
+
 A results-driven and detail-oriented Information Security Analyst with a passion for cybersecurity and a proactive approach 
 to threat identification, mitigation, and compliance. Skilled in leveraging automation, cloud security, and vulnerability 
 management to enhance organizational security posture. Adept at collaborating with cross-functional teams, analysing 
 complex security threats, and implementing effective solutions. Holding a [First-Class]() degree in Cyber Security and 
 Computer Forensics, I am eager to apply my expertise in a dynamic environment, driving innovation and strengthening 
 defences against evolving cyber threats.
+
 ---------------------------
 
 ## Technical Skills
